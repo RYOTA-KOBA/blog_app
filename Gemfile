@@ -33,13 +33,13 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-#Make errors better looking
+# Make errors better looking
 gem 'better_errors', '~> 2.4'
 
-#Bluma CSS
-gem 'bulma-rails', '~> 0.6.1'
+# Bluma CSS
+gem 'bulma-rails', '~> 0.8.0'
 
-#simple form
+# simple form
 gem 'simple_form', '~> 3.5'
 
 
